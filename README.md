@@ -1,2 +1,0 @@
-# RPC-RabbitMQ
-In Java 
